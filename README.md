@@ -20,7 +20,7 @@ const myDetails = {
 
 <div align="center">
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adsparkx-pritam-raj&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsparkx-pritam-raj&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsparkx-pritam-raj&layout=compact&hide_border=true&theme=chartreuse-dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adsparkx-pritam-raj&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsparkx-pritam-raj&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam707&layout=compact&hide_border=true&theme=chartreuse-dark)
 
  </div>
   
