@@ -20,12 +20,12 @@ const myDetails = {
 
 <div align="center">
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pritam707&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritam707&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam707&layout=compact&hide_border=true&theme=chartreuse-dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adsparkx-pritam-raj&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsparkx-pritam-raj&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsparkx-pritam-raj&layout=compact&hide_border=true&theme=chartreuse-dark)
 
  </div>
   
 <!-- Contribution Graph -->
-![Pritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritam707&theme=github-compact)
+![Pritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adsparkx-pritam-raj&theme=github-compact)
 
 <!-- Tech Stack -->
 
@@ -44,7 +44,7 @@ const myDetails = {
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=pritam707&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=adsparkx-pritam-raj&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Socials -->
 
@@ -64,5 +64,5 @@ const myDetails = {
 
 <!-- Status -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=pritam707)
-![GitHub last commit](https://img.shields.io/github/last-commit/pritam707/pritam707)
+![Profile Views](https://komarev.com/ghpvc/?username=adsparkx-pritam-raj)
+![GitHub last commit](https://img.shields.io/github/last-commit/adsparkx-pritam-raj/adsparkx-pritam-raj)
